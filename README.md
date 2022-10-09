@@ -4,12 +4,12 @@
 
 
 <a target="_blank" align="Left">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+  <img align="right" top="500" width="740" alt="GIF" src="colab.PNG">
 </a>
 
 
-<h3 align="left"><u>Training</u></h3>
- <video src="LINK" controls="controls" style="max-width: 730px;"></video>
+<h3 align="left"><u>Samples</u></h3>
+ <video src="LINK" controls="controls" style="width: 2080px;"></video>
 
 - I used a dataset of approximately 2 hours audio and text data for this results ,I used lyrics from  kassmase songs as a text dataset and my voice as the audio.
 -  <a href="https://colab.research.google.com/drive/1CRHrFqEKWxFi_le1Mos70cbldasw9BAq?usp=sharing" target="blank"> **This notebook**</a> holds the code responsibe for training the tacotron model  
