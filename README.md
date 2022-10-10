@@ -12,7 +12,7 @@
 
 
 
-<h3 align="left"><u>Samples</u></h3>
+<h3 align="left"><u>Training>
  <video src="https://github.com/moanbekele/Amharic-Text-to-speech/blob/main/download%20(11).mov" controls="controls" style="width: 100%"></video>
 
 - I used a dataset of approximately 2 hours audio and text data for this results ,I used lyrics from  kassmase songs as a text dataset and my voice as the audio.
