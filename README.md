@@ -8,7 +8,11 @@
   <img align="right" top="500" width="100%" alt="GIF" src="colab.PNG">
   
 </a>
+<h1 align="center">Amharic-Text-to-speech</a></h1>
 
+-  Audio sample at sound cloud - <a href="https://soundcloud.com/moan-bekele/download-11?si=5c9dfe63d0664a65bc20802c3a701067&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing">
+  sample.wav
+</a>
 <h3 align="left"><u>Main Resources Used</u></h3>
 
 
